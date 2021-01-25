@@ -1,0 +1,36 @@
+#movies img,
+#movie img {
+  width: 60%;
+}
+#up {
+  margin-left: 10px;
+}
+@media (min-width: 960px) {
+  #movies .col-md-3 .well {
+    height: 390px;
+  }
+
+  #movies .col-md-3 img {
+    height: 240px;
+  }
+  #searchForm {
+    align-items: center;
+  }
+}
+table,
+td {
+  border: 1px solid black;
+}
+#app {
+  text-align: ;
+}
+img {
+  width: 20%;
+  margin: auto;
+  display: block;
+  margin-bottom: 10px;
+}
+#box {
+  box-sizing: border-box;
+  size: 50px;
+}
